@@ -1,5 +1,9 @@
 # Weaver
 
+![Alt](https://repobeats.axiom.co/api/embed/06b67e5e2e034dec6c6911b00dc4420450c014b3.svg "Repobeats analytics image")
+
+## Overview
+
 Weaver is a simple script to export your Telegram chat titles to a CSV file using the Telethon library. This project uses environment variables to securely manage your Telegram API credentials.
 
 ## Prerequisites
